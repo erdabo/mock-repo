@@ -16,3 +16,4 @@ SELECT * from pclqf;
 SELECT * from aechx;
 SELECT * from ieuog;
 SELECT * from jptma;
+SELECT * from xxtmo;
