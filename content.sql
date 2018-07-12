@@ -18,3 +18,4 @@ SELECT * from ieuog;
 SELECT * from jptma;
 SELECT * from oeeme;
 SELECT * from onswe;
+SELECT * from lnyuj;
