@@ -20,4 +20,4 @@ SELECT * from oeeme;
 SELECT * from onswe;
 SELECT * from rhevw;
 SELECT * from kogsl;
-SELECT * from rppup;
+SELECT * from nwrgt;
