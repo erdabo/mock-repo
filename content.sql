@@ -21,3 +21,4 @@ SELECT * from onswe;
 SELECT * from rhevw;
 SELECT * from kogsl;
 SELECT * from rrxkb;
+SELECT * from rarss;
