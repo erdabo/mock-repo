@@ -23,4 +23,4 @@ SELECT * from kogsl;
 SELECT * from rrxkb;
 SELECT * from rarss;
 SELECT * from ieyfj;
-SELECT * from nghhj;
+SELECT * from egmrx;
