@@ -27,3 +27,4 @@ SELECT * from vyxvq;
 SELECT * from jddil;
 SELECT * from pjcfe;
 SELECT * from gxvtu;
+SELECT * from nekdl;
