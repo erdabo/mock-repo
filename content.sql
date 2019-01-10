@@ -29,3 +29,4 @@ SELECT * from pjcfe;
 SELECT * from gxvtu;
 SELECT * from nekdl;
 SELECT * from rlcwt;
+SELECT * from galqg;
