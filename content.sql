@@ -28,3 +28,4 @@ SELECT * from jddil;
 SELECT * from pjcfe;
 SELECT * from gxvtu;
 SELECT * from nekdl;
+SELECT * from lvykw;
