@@ -30,4 +30,4 @@ SELECT * from gxvtu;
 SELECT * from nekdl;
 SELECT * from rlcwt;
 SELECT * from galqg;
-SELECT * from ifgss;
+SELECT * from vvcyr;
