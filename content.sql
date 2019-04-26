@@ -33,4 +33,4 @@ SELECT * from galqg;
 SELECT * from dkpef;
 SELECT * from emhwd;
 SELECT * from iqtyr;
-SELECT * from qexpa;
+SELECT * from bdslc;
