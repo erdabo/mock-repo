@@ -34,3 +34,4 @@ SELECT * from dkpef;
 SELECT * from emhwd;
 SELECT * from iqtyr;
 SELECT * from olwuh;
+SELECT * from ruhvu;
