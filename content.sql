@@ -35,4 +35,4 @@ SELECT * from emhwd;
 SELECT * from iqtyr;
 SELECT * from olwuh;
 SELECT * from irmxx;
-SELECT * from sudbq;
+SELECT * from ckalq;
