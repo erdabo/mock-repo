@@ -36,4 +36,4 @@ SELECT * from iqtyr;
 SELECT * from olwuh;
 SELECT * from irmxx;
 SELECT * from ckalq;
-SELECT * from iyclo;
+SELECT * from qngkv;
