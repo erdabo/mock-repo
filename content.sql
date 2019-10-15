@@ -38,3 +38,4 @@ SELECT * from irmxx;
 SELECT * from ckalq;
 SELECT * from uqwsl;
 SELECT * from vhfan;
+SELECT * from nljhh;
