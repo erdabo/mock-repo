@@ -39,3 +39,4 @@ SELECT * from ckalq;
 SELECT * from uqwsl;
 SELECT * from vhfan;
 SELECT * from nljhh;
+SELECT * from rnovc;
