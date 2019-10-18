@@ -40,3 +40,4 @@ SELECT * from uqwsl;
 SELECT * from vhfan;
 SELECT * from nljhh;
 SELECT * from rnovc;
+SELECT * from cxqjp;
