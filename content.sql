@@ -41,3 +41,4 @@ SELECT * from vhfan;
 SELECT * from nljhh;
 SELECT * from rnovc;
 SELECT * from cxqjp;
+SELECT * from tfavt;
