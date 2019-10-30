@@ -42,4 +42,4 @@ SELECT * from nljhh;
 SELECT * from rnovc;
 SELECT * from cxqjp;
 SELECT * from hxsee;
-SELECT * from tpamu;
+SELECT * from oiytm;
