@@ -43,4 +43,4 @@ SELECT * from rnovc;
 SELECT * from cxqjp;
 SELECT * from hxsee;
 SELECT * from mybrf;
-SELECT * from caopp;
+SELECT * from tknua;
