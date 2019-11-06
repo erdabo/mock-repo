@@ -44,3 +44,4 @@ SELECT * from cxqjp;
 SELECT * from hxsee;
 SELECT * from mybrf;
 SELECT * from radgm;
+SELECT * from fwman;
