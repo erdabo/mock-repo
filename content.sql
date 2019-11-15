@@ -45,4 +45,4 @@ SELECT * from hxsee;
 SELECT * from mybrf;
 SELECT * from radgm;
 SELECT * from fadqo;
-SELECT * from fgwuk;
+SELECT * from thirr;
