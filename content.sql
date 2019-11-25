@@ -47,3 +47,4 @@ SELECT * from radgm;
 SELECT * from fadqo;
 SELECT * from thirr;
 SELECT * from fpafk;
+SELECT * from rjdin;
