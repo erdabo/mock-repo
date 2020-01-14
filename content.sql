@@ -48,3 +48,4 @@ SELECT * from fadqo;
 SELECT * from thirr;
 SELECT * from fpafk;
 SELECT * from agryj;
+SELECT * from kvgrp;
