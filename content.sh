@@ -1,2 +1,1 @@
 echo "wsrkp"
-echo "sqmcy"
