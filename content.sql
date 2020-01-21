@@ -51,3 +51,4 @@ SELECT * from agryj;
 SELECT * from ynwiu;
 SELECT * from eeffx;
 SELECT * from ndcpd;
+SELECT * from ujrie;
