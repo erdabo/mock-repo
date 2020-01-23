@@ -52,3 +52,5 @@ SELECT * from ynwiu;
 SELECT * from eeffx;
 SELECT * from ndcpd;
 SELECT * from ujrie;
+SELECT * from yrosv;
+SELECT * from osdim;
