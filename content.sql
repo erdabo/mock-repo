@@ -53,4 +53,4 @@ SELECT * from eeffx;
 SELECT * from ndcpd;
 SELECT * from ujrie;
 SELECT * from yrosv;
-SELECT * from oscds;
+SELECT * from uukct;
