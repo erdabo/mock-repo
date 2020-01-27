@@ -49,4 +49,4 @@ SELECT * from thirr;
 SELECT * from fpafk;
 SELECT * from agryj;
 SELECT * from ynwiu;
-SELECT * from nhedv;
+SELECT * from wnijq;
