@@ -54,3 +54,4 @@ SELECT * from ndcpd;
 SELECT * from ujrie;
 SELECT * from yrosv;
 SELECT * from uukct;
+SELECT * from qmwhk;
