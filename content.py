@@ -1,1 +1,1 @@
-print("bgued")
+print("nynkw")
