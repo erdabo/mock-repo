@@ -1,2 +1,1 @@
 print("vpqhy")
-print("dssgi")
