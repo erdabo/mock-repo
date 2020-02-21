@@ -1,1 +1,1 @@
-print("apwyy")
+print("tanhx")
