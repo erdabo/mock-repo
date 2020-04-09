@@ -5,4 +5,4 @@ SELECT * from paumd;
 SELECT * from sftat;
 SELECT * from mktsr;
 SELECT * from qrsbf;
-SELECT * from murli;
+SELECT * from odeul;
