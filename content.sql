@@ -56,3 +56,4 @@ SELECT * from yrosv;
 SELECT * from uukct;
 SELECT * from qmwhk;
 SELECT * from axotx;
+SELECT * from kfpmj;
