@@ -6,3 +6,4 @@ SELECT * from sftat;
 SELECT * from mktsr;
 SELECT * from qrsbf;
 SELECT * from odeul;
+SELECT * from irwbc;
