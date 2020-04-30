@@ -7,4 +7,4 @@ SELECT * from mktsr;
 SELECT * from qrsbf;
 SELECT * from odeul;
 SELECT * from irwbc;
-SELECT * from vsmmn;
+SELECT * from dycen;
