@@ -8,3 +8,4 @@ SELECT * from qrsbf;
 SELECT * from odeul;
 SELECT * from irwbc;
 SELECT * from idsdv;
+SELECT * from irklb;
