@@ -11,4 +11,4 @@ SELECT * from idsdv;
 SELECT * from irklb;
 SELECT * from ueorn;
 SELECT * from xoejd;
-SELECT * from ppmys;
+SELECT * from xsmdp;
