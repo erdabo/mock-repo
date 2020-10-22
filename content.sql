@@ -12,4 +12,4 @@ SELECT * from irklb;
 SELECT * from ueorn;
 SELECT * from xoejd;
 SELECT * from sgdcy;
-SELECT * from endti;
+SELECT * from scpju;
