@@ -13,4 +13,4 @@ SELECT * from ueorn;
 SELECT * from xoejd;
 SELECT * from sgdcy;
 SELECT * from pclqf;
-SELECT * from wresg;
+SELECT * from lqqkc;
