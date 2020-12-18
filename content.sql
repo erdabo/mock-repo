@@ -14,3 +14,4 @@ SELECT * from xoejd;
 SELECT * from sgdcy;
 SELECT * from pclqf;
 SELECT * from aechx;
+SELECT * from ieuog;
